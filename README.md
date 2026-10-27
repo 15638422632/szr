@@ -3,7 +3,7 @@
 <p align="center">
   <img src="images/00-cover.jpg" alt="智影讲说平台" width="760" />
 </p>
-
+![输入图片说明](image/00-cover.jpg)
 科普讲解、展厅宣讲、课程口播——这类内容最耗时间的不是创意，而是「写稿 + 录制 + 剪辑」的重复劳动。这个项目把这条链路做成了一个可运行的系统：写稿、审核、选形象、生成视频、沉淀问答，全在一个平台里完成。
 
 > 技术栈：SpringBoot 2.7 + JDK8 + MySQL8 + Redis + MyBatis-Plus + JWT ｜ Vue2.7 + Element UI + ECharts + Vite ｜ 第三方数字人开放 API（含模拟通道，本地无 Key 也能跑通）
