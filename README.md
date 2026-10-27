@@ -17,7 +17,7 @@
 围绕这条主线，平台补齐了真实项目必须有的东西——脚本库、审核流、任务队列、作品库、知识库问答、互动数据、后台看板，做成了一个能直接交付使用的系统。
 
 <p align="center">
-  <img src="images/01-home.jpg" alt="前台首页" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/01-home.jpg" alt="前台首页" width="760" />
 </p>
 <p align="center"><i>前台首页：数据看板 + 精选脚本 + 热门榜 + 形象库</i></p>
 
@@ -31,7 +31,7 @@
 - 支持最新 / 最热 / 最多收藏三种排序，热度由浏览、有用、收藏加权计算
 
 <p align="center">
-  <img src="images/02-square.jpg" alt="脚本广场" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/02-square.jpg" alt="脚本广场" width="760" />
 </p>
 <p align="center"><i>脚本广场：分类筛选 + 关键词检索 + 收藏</i></p>
 
@@ -47,7 +47,7 @@
 - 失败任务自动返还额度，并支持一键重试
 
 <p align="center">
-  <img src="images/03-create.jpg" alt="创作页" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/03-create.jpg" alt="创作页" width="760" />
 </p>
 <p align="center"><i>创作页：左侧配置，右侧实时预览</i></p>
 
@@ -56,7 +56,7 @@
 所有提交过的任务都在作品库：生成中的显示实时进度，已完成的可直接播放与下载，失败的展示具体原因并可重试，不需要在聊天记录里翻任务号。
 
 <p align="center">
-  <img src="images/04-works.jpg" alt="我的作品" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/04-works.jpg" alt="我的作品" width="760" />
 </p>
 <p align="center"><i>我的作品：状态筛选 + 进度 + 播放/下载/重试/删除</i></p>
 
@@ -70,7 +70,7 @@
 - 满意的答案可以「用数字人播报」，一键带入创作页
 
 <p align="center">
-  <img src="images/05-ask.jpg" alt="智能问答" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/05-ask.jpg" alt="智能问答" width="760" />
 </p>
 <p align="center"><i>智能问答：命中来源明确标注，回答可转视频</i></p>
 
@@ -84,12 +84,12 @@
 - **日志**：后台写操作通过 AOP 自动落库，谁在什么时候改了什么一目了然
 
 <p align="center">
-  <img src="images/06-dashboard.jpg" alt="数据看板" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/06-dashboard.jpg" alt="数据看板" width="760" />
 </p>
 <p align="center"><i>数据看板：趋势、成功率、形象占比、分类分布</i></p>
 
 <p align="center">
-  <img src="images/07-audit.jpg" alt="内容审核" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/07-audit.jpg" alt="内容审核" width="760" />
 </p>
 <p align="center"><i>内容审核：脚本与 FAQ 双类型，快捷驳回</i></p>
 
@@ -98,7 +98,7 @@
 前台做了三档响应式断点，导航在窄屏收起为抽屉，列表自动降列，详情页侧栏下沉，手机上提交任务、看进度、提问都不需要缩放页面。
 
 <p align="center">
-  <img src="images/08-mobile.jpg" alt="移动端" width="390" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/08-mobile.jpg" alt="移动端" width="390" />
 </p>
 <p align="center"><i>移动端：导航抽屉 + 单列卡片 + 触控友好的按钮</i></p>
 
