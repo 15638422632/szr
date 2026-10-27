@@ -1,7 +1,7 @@
 # 把一段文案变成数字人讲解视频：我开源了一个完整的数字人内容管理平台
 
 <p align="center">
-  <img src="https://gitee.com/W1207631873/szr/blob/master/image/00-cover.jpg" alt="智影讲说平台" width="760" />
+  <img src="https://gitee.com/W1207631873/szr/raw/master/image/00-cover.jpg" alt="智影讲说平台" width="760" />
 </p>
 ![输入图片说明](image/00-cover.jpg)
 科普讲解、展厅宣讲、课程口播——这类内容最耗时间的不是创意，而是「写稿 + 录制 + 剪辑」的重复劳动。这个项目把这条链路做成了一个可运行的系统：写稿、审核、选形象、生成视频、沉淀问答，全在一个平台里完成。
